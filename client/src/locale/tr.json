@@ -1,0 +1,14 @@
+{
+    "signUp": "Зарегестрироваться",
+    "username": "Имя Пользователя",
+    "email": "Почта",
+    "password": "Пароль",
+    "passwordRepeat": "Повторение Пароля",
+    "passwordMismatchValidation": "Пароли не совпадают",
+    "users": "Пользователь",
+    "nextPage": "следующая страница >",
+    "previousPage": "< предыдущая страница",
+    "login": "Войти",
+    "myProfile": "Мой профиль",
+    "logout": "Выйти"
+  }
